@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 # ==================== KONFIGURÁCIA ====================
 TELEGRAM_TOKEN = "8888485121:AAEvtckgjk8l9eO-Zb2oF2ohUEjD-z0W7Xg"
-CHAT_ID = "5366772205"
+CHAT_ID = "6301759519"
 
 INSTRUMENTS = {
     "GC=F": 2.0,       # Zlato
